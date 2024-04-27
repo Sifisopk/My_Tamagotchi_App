@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_Tamagotchi_App</string>
+    <string name="play">play</string>
+    <string name="hunger">hunger</string>
+    <string name="happy">happy</string>
+    <string name="clean">clean</string>
+    <string name="feed">feed</string>
+    <string name="clean_pet">clean</string>
+    <string name="get_started">Get started</string>
+    <string name="title">welcome to Guluva your tamagotchi app</string>
+</resources>
