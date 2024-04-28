@@ -5,7 +5,8 @@
     <string name="happy">happy</string>
     <string name="clean">clean</string>
     <string name="feed">feed</string>
+    <string name="petImage">pet_image</string>
     <string name="clean_pet">clean</string>
     <string name="get_started">Get started</string>
-    <string name="title">welcome to Guluva your tamagotchi app</string>
+    <string name="title">welcome to Alex your tamagotchi app</string>
 </resources>
