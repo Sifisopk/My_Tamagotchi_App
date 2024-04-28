@@ -149,6 +149,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.226"
-        app:layout_constraintStart_toEndOf="@+id/happy_textView" />
+        app:layout_constraintStart_toEndOf="@+id/happy_textView"
+        tools:ignore="SpeakableTextPresentCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

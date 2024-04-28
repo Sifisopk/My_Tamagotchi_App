@@ -48,7 +48,6 @@ class MainActivity2 : AppCompatActivity() {
             petHealth = petHealth.coerceIn(0, 100)
             petCleanliness = petCleanliness.coerceIn(0, 100)
             hungryEditTxt.setText(petHunger.toString())
-            happyEditTxt.setText(petHealth.toString())
             cleanEditTxt.setText(petCleanliness.toString())
             animatedImageChane(petImage, R.drawable.eating_pet)
         }
@@ -61,7 +60,6 @@ class MainActivity2 : AppCompatActivity() {
             petCleanliness = petCleanliness.coerceIn(0, 100)
             petHealth = petHealth.coerceIn(0, 100)
             cleanEditTxt.setText(petCleanliness.toString())
-            happyEditTxt.setText(petHealth.toString())
             animatedImageChane(petImage, R.drawable.clean_pet)
         }
 
