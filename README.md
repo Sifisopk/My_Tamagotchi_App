@@ -34,3 +34,10 @@ Youtube video
 Link https://www.youtube.com/watch?v=NXzU2odAKvA
 
 ![Screenshot (156)](https://github.com/Sifisopk/My_Tamagotchi_App/assets/162301784/4c34eb01-8b60-4919-b1f7-7f3dd62bd960)
+
+Reference list
+
+OpenAI. (2022). ChatGPT (GPT-3.5) [computer system]. https://chat.openai.com
+
+How to make custom edit text in android studio | Android studio tutorial.2020. YouTube video, added by Faheem Hassan. [online]. Available at: https://www.youtube.com/watch?v=_cnwpijQZ1w [Accessed 28 April 2024].
+
