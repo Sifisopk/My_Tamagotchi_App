@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!-- imageView for the pet images-->
     <ImageView
         android:id="@+id/pet_image"
         android:layout_width="303dp"
@@ -19,6 +20,7 @@
         app:srcCompat="@drawable/pet_image"
         android:contentDescription="@string/petImage" />
 
+    <!-- button for cleaning -->
     <Button
         android:id="@+id/clean_Btn"
         android:layout_width="wrap_content"
@@ -35,6 +37,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/feed_Btn" />
 
+    <!-- button for feeding -->
     <Button
         android:id="@+id/feed_Btn"
         android:layout_width="wrap_content"
@@ -51,6 +54,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <!-- button for playing -->
     <Button
         android:id="@+id/play_Btn"
         android:layout_width="wrap_content"
@@ -67,6 +71,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/clean_Btn" />
 
+    <!-- TextView for hunger -->
     <TextView
         android:id="@+id/hungry_textView"
         android:layout_width="wrap_content"
@@ -80,6 +85,7 @@
         app:layout_constraintHorizontal_bias="0.116"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <!-- TextView for happiness -->
     <TextView
         android:id="@+id/happy_textView"
         android:layout_width="wrap_content"
@@ -93,6 +99,7 @@
         app:layout_constraintHorizontal_bias="0.114"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <!-- TextView for clean -->
     <TextView
         android:id="@+id/clean_textView"
         android:layout_width="wrap_content"
@@ -106,6 +113,7 @@
         app:layout_constraintHorizontal_bias="0.112"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <!-- EditText for hunger -->
     <EditText
         android:id="@+id/hungry_edit_txt"
         android:layout_width="wrap_content"
@@ -121,6 +129,7 @@
         app:layout_constraintHorizontal_bias="0.177"
         app:layout_constraintStart_toEndOf="@+id/hungry_textView" />
 
+    <!-- EditText for cleaning -->
     <EditText
         android:id="@+id/clean_edit_txt"
         android:layout_width="wrap_content"
@@ -136,6 +145,7 @@
         app:layout_constraintHorizontal_bias="0.268"
         app:layout_constraintStart_toEndOf="@+id/clean_textView" />
 
+    <!-- EditText for happiness -->
     <EditText
         android:id="@+id/happy_edit_txt"
         android:layout_width="wrap_content"
